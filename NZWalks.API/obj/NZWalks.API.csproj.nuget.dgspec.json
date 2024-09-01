@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
+    "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
+    "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectUniqueName": "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "projectName": "NZWalks.API",
-        "projectPath": "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectPath": "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "packagesPath": "C:\\Users\\Eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks\\NZWalks.API\\obj\\",
+        "outputPath": "C:\\Users\\Eduar\\OneDrive\\Área de Trabalho\\NZWalks\\NZWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.7, )"
