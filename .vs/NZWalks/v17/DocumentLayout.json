@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\nzwalks\\nzwalks.api\\middlewares\\exceptionhandiermiddieware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\middlewares\\exceptionhandiermiddieware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\nzwalks\\nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9574B0BC-AB67-4AA5-A134-75CC92E732B4}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\nzwalks\\nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9574B0BC-AB67-4AA5-A134-75CC92E732B4}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9574B0BC-AB67-4AA5-A134-75CC92E732B4}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\nzwalks\\nzwalks.ui\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9574B0BC-AB67-4AA5-A134-75CC92E732B4}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED06081-D2D0-4412-A613-5D2E8ACC6664}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WalksController.cs",
-              "DocumentMoniker": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ToolTip": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
-              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADQAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T22:26:50.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExceptionHandIerMiddIeware.cs",
-              "DocumentMoniker": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Middlewares\\ExceptionHandIerMiddIeware.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Middlewares\\ExceptionHandIerMiddIeware.cs",
-              "ToolTip": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Middlewares\\ExceptionHandIerMiddIeware.cs",
-              "RelativeToolTip": "NZWalks.API\\Middlewares\\ExceptionHandIerMiddIeware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ToolTip": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T22:15:34.558Z",
+              "WhenOpened": "2024-11-04T01:54:41.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeToolTip": "NZWalks.API\\Program.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAmwHgAAAAAAAAA",
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T00:03:41.129Z",
+              "WhenOpened": "2024-11-04T01:54:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowF4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:34:37.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:09:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\Eduar\\OneDrive\\\u00C1rea de Trabalho\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAiwIcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:48:31.81Z",
               "EditorCaption": ""
             }
           ]
